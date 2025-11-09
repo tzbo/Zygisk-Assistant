@@ -33,3 +33,7 @@ gradle-app.setting
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+#Idea
+.idea
+local.properties
